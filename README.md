@@ -27,8 +27,11 @@ Mac: python3 engine.py
 PC: py engine.py
 
 #####################################
+
 ############ CHANGE LOG #############
+
 #####################################
+
 Alpha 1.07 - 3/31/20
 * Added m key bind for magic wand
 * Added magic wand to help menu
